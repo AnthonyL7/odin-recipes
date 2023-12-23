@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project for the Odin Project Foundations Course. I decided to keep it simple and only do 3 total recipes. Which were Chocolate Chip Cookies, Salmon Wellington, and Santa Maria Tri-Tip. The major obstacle of this project was trying to figure the file path for my relative images. Luckily I overcame that and was able to understand how to write file paths for my files. Overall this was a fun project!
