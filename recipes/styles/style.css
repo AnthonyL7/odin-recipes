@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(104, 45, 45);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: p;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header-1 {
+  
+}
+
+.Ingredients {
+  background-color: rgb(242, 241, 241);
+}
+
+.Steps {
+  background-color: rgb(242, 241, 241);
+}
+
+.description {
+  font-weight: 800;
+}
+
+.picture {
+  text-align: center
+}
